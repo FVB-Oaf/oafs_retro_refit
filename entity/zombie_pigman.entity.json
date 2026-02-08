@@ -1,0 +1,15 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "minecraft:zombie_pigman",
+			"min_engine_version": "1.8.0",
+			"textures": {
+				"default": "textures/entity/pig/pigzombie"
+			},
+			"geometry": {
+				"default": "geometry.pigzombie.v1.8"
+			}
+		}
+	}
+}

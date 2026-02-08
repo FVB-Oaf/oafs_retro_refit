@@ -1,6 +1,9 @@
 {
   "pack":{
     "pack_format":15,
-    "description":"Oaf's Retro Refit\nUse Programmer Art!"
+    "min_format":15,
+    "max_format":75.0,
+    "supported_formats":{"min_inclusive":15,"max_inclusive":75.0},
+    "description":"Oaf's Retro"
   }
 }
